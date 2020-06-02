@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="spinnerList">
+        <item>火娃</item>
+        <item>土娃</item>
+        <item>水娃</item>
+        <item>金娃</item>
+        <item>木娃</item>
+    </string-array>
+</resources>
